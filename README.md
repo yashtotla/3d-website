@@ -1,5 +1,7 @@
 # 3d-website
 
+![til](./scrolling-animation.gif)
+
 ### Usage
 
 ```
